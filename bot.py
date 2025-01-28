@@ -9,9 +9,9 @@ from pyrogram.errors import FloodWait
 from pyrogram.enums import ParseMode
 
 # Replace these with your actual values
-API_ID = 24720817  # Replace with your API ID
-API_HASH = "43669876f7dbd754e157c69c89ebf3eb"  # Replace with your API hash
-BOT_TOKEN = "7927514116:AAEJU5UoE4rMFTWj8pA8V7ENVogU91wWRCY"  # Replace with your bot token
+API_ID = 12345678  # Replace with your API ID
+API_HASH = ""  # Replace with your API hash
+BOT_TOKEN = ""  # Replace with your bot token
 
 
 
